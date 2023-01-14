@@ -5,7 +5,7 @@ draft: false
 showToc: true
 weight: 205
 cover:
-    image: "projects/boat.jpg"
+    image: "projects/boatcover.jpg"
 --- 
 
 # Introduction
