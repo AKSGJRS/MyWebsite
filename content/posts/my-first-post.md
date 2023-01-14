@@ -1,6 +1,6 @@
 ---
-title: "First Post"
-description: "Hello there!!!!!!"
+title: "AI images"
+description: "Haven't decided what to put yet.."
 draft: false
 weight: 105
 #cover:
