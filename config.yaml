@@ -81,7 +81,7 @@ markup:
 assets: 
  #Open Tab icon
      disableHLJS: true 
- #     favicon: "<link / abs url>" 
+       favicon: "/static/favicon.ico>" 
  #     favicon16x16: "<link / abs url>" 
  #     favicon32x32: "<favicon /static>" 
  #     apple_touch_icon: "<link / abs url>" 
