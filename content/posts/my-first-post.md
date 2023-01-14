@@ -12,3 +12,5 @@ cover:
 
 ![](https://media.tenor.com/lh6kz0nSPVoAAAAC/dumbledore-goblet-of-fire.gif)
 
+*Dark times lie ahead of us*
+
