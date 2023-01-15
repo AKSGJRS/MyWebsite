@@ -10,7 +10,3 @@ weight: 105
 **Nothing here yet...but admire the view of these AI generated images.**
 
 ![](/posts/potions.jpg)
-
-
-
-repeat...hllkj
