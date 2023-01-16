@@ -1,4 +1,4 @@
-baseURL: 'https://harshalmandaliya.com'
+baseURL: 'https://hmandaliya27.github.io'
 languageCode: en-gb
 title: Harshal Mandaliya
 theme: papermod
@@ -13,10 +13,6 @@ menu:
       name: Projects
       url: /projects/
       weight: 20
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 30
     - identifier: search
       name: Search
       url: /search/
@@ -31,7 +27,7 @@ params:
   profileMode:
     enabled: true
     title: Harshal Mandaliya
-    subtitle: Cyber Security, Youtube, Photoshop, Potterhead and many other things... 
+    subtitle: Cyber Security, Youtube, Photoshop, potterhead and many other things... 
     imageUrl: /home/me.jpeg
     #imageUrl: https://i.insider.com/59f1e2b61f58cc4c008b458a?width=700
     imageTitle: Didn't have a exact perference for a image.
@@ -41,6 +37,8 @@ params:
     buttons:
       - name: About
         url: /about
+      - name: Contact
+        url: /contact
 
   # cover image for posts
   cover:
@@ -72,8 +70,6 @@ outputs:
     - RSS
     - JSON
 
-favicon: "/static/favicon.ico" 
-
 # allow HTML in MD
 markup:
   goldmark:
@@ -83,7 +79,7 @@ markup:
 assets: 
  #Open Tab icon
      disableHLJS: true 
-       
+ #     favicon: "<link / abs url>" 
  #     favicon16x16: "<link / abs url>" 
  #     favicon32x32: "<favicon /static>" 
  #     apple_touch_icon: "<link / abs url>" 
