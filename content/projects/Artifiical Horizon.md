@@ -18,5 +18,8 @@ The code is developed in C# and is available to download from my github profile.
 
 - **Its not fully completed** but feel free to tweak to your preference.
 
+```yaml
+If you just want to see how it operates, head over to the following shown in the image below```
+
 ![](/projects/release.jpg)
 
