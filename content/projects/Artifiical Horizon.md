@@ -18,9 +18,5 @@ The code is developed in C# and is available to download from my github profile.
 
 - **Its not fully completed** but feel free to tweak to your preference.
 
-```yaml
-Or if you just want to view it, press the application as shown below once you have downloaded the project.
-```
-
 ![](/projects/release.jpg)
 
