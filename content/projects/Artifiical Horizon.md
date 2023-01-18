@@ -3,8 +3,9 @@ title: "Artificial Horizon"
 description: "Plane gui"
 draft: false
 weight: 205
+dateString: May 2019
 cover:
-    image: "projects/ai.jpg"
+    image: "projects/plane/ai.jpg"
 --- 
 
 # Introduction
@@ -12,14 +13,14 @@ The project is based on the Fly-by-wire (FBW) which is a system that replaces al
 
 > A graphic user interface to represent the cockpit display and show the key features of the craft while in flight
 
-![](/projects/draft.jpg)
+![](/projects/plane/draft.jpg)
 
 The code is developed in C# and is available to download from my github profile.
 
 - **Its not fully completed** but feel free to tweak to your preference.
 
-```yaml
-If you just want to see how it operates, head over to the following shown in the image below```
+> If you just want to see how it operates, head over to the following shown in the image below
 
-![](/projects/release.jpg)
+
+![](/projects/plane/release.jpg)
 

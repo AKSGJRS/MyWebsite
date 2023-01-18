@@ -1,5 +1,5 @@
 ---
-title: "AI images"
+title: "Potions..."
 description: "Haven't decided what to put yet.."
 draft: false
 weight: 105

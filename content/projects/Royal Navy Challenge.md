@@ -1,11 +1,12 @@
 ---
-title: "Royal Navy Challenge 2019"
+title: "Royal Navy Challenge"
 description: "STEM engineering challenge"
 draft: false
+dateString: March 2019
 showToc: true
 weight: 205
 cover:
-    image: "projects/boatcover.jpg"
+    image: "projects/boat/boatcover.jpg"
 --- 
 
 # Introduction
@@ -21,12 +22,12 @@ It was a group project that took over the course of a few months to construct th
 
 The materials soon arrived, and we started assembling the vessel and car. For the vessel, blue styrofoam was used for the body as it was waterproof and light, thus minimising the weight overall, as well as using an acrylic layer to prevent the vessel from sinking (several testing was conducted in a demo sink with many materials). All of the electric components, like the rudder, servo, battery etc., were stored in the vessel base, so they had to be concealed properly. 
 
-![](/projects/vessel.jpg)
+![](/projects/boat/vessel.jpg)
 
 Similar to the car, which was made compact and lightweight as both they and the down-bird helicopter had to be on the vessel. 
 
-![](/projects/rc1.jpg)
-![](/projects/rc2.jpg)
+![](/projects/boat/rc1.jpg)
+![](/projects/boat/rc2.jpg)
 
 >There was a total of two attempts to complete the task. One was in the morning, and the other took place in the afternoon (which gave us time to improve and modify the design from the first attempt. 
 
