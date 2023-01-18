@@ -12,5 +12,5 @@ A recent graduate from Kingston University, where I received a first-class degre
 
 ![](/about/test2.png)
 
-*Happiness can be found, even in the darkest of times*
+**Happiness can be found, even in the darkest of times**
 
