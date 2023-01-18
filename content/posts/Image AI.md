@@ -4,10 +4,9 @@ description: "Create realistic images with a description..."
 draft: false
 dateString: January 2023
 weight: 105
-showToc: true
-date: 
-#cover:
-    #image: "https://i.kym-cdn.com/entries/icons/original/000/029/163/cover6.jpg"
+showToc: true 
+cover:
+    image: "posts/secondpost/aimage.jpg"
 ---
 
 # Introduction
@@ -54,7 +53,7 @@ Currently the only way to generate images is from its **discord server** (do not
 
 # Wrap up
 
-There we go, quite the image generated so far.... **but** his is just the beginning. Just imagine the possible development that it can achieve such as:
+There we go, quite the image generated so far.... **but** this is just the beginning. Just imagine the possible development that it can achieve such as:
 
 - Improved image quality: AI image generators will continue to improve in terms of image quality, realism, and diversity. This will be achieved by using more advanced deep learning techniques and larger and more diverse training datasets.
 
